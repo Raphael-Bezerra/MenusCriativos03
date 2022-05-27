@@ -3,7 +3,7 @@
 Praticando HTML e CSS
 
 <p align="center">
-  <img width="300" height="470" src="src/menugif.GIF">
+  <img width="350" height="470" src="src/menugif.GIF">
 </p>
 
 
