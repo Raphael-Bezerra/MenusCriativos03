@@ -5,7 +5,7 @@ Praticando HTML e CSS
 https://raphael-bezerra.github.io/MenusCriativos03/ 
 
 <p align="center">
-  <img width="850" height="850" src="src/menugif.GIF">
+  <img width="550" height="550" src="src/menugif.GIF">
 </p>
 
 
